@@ -27,5 +27,5 @@ Slytherin valued ambition, leadership, self-preservation, cunning and resourcefu
 - [Harry Potter and the Deathly Hallows](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows)
 
 ## References
-[^1] [Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter)
+[^1] [Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter)\
 [^2] [Harry Potter Fandom Wiki](https://harrypotter.fandom.com/wiki/Hogwarts_Houses#The_four_Houses_of_Hogwarts)
