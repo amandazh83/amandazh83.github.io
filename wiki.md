@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-# **__Harry Potter__**
-</div> :mage:
+  <h1><strong>Harry Potter</strong> 🧙</h1>
+</div>
 
 ![](https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_.jpg)
 
